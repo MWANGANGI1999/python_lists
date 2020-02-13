@@ -50,21 +50,17 @@ print(Student)
 #del-removes the specified index
 del Student[0]
 print(Student)
-
 #clear()-empties the list
 Student.clear()
 print(Student)
-
 #reverse()-Reverse the order of the student list
 Student.reverse()
 print(Student)
-
 #sort()-sorts the list ascending by default
 Student.sort()
 print(Student)
-
 #creating an empty list
-Student = [""]
+Student = []
 
 print(Student)
 
